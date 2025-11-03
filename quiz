@@ -1,0 +1,9 @@
+{ "Cy": [
+        { "question": "Guess the district", "answer": ["Nicosia", "Lefkosia", "Lekfoşa"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY1.png"},
+        { "question": "Guess the district", "answer": ["Limassol", "Lemesos", "Leymasun"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY2.png"},
+        { "question": "Guess the district", "answer": ["Larnaca", "Larnaka"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY3.png"},
+        { "question": "Guess the district", "answer": ["Famagusta", "Ammochostos", "Gazimağusa", "Mağusa"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY4.png"},
+        { "question": "Guess the district", "answer": ["Paphos", "Pafos", "Baf"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY5.png"},
+        { "question": "Guess the district", "answer": ["Kyrenia", "Keryneia", "Girne"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Cyprus-Quiz/refs/heads/main/CY6.png"}
+    ]
+}
